@@ -9,6 +9,7 @@ public class Main {
         System.out.print("3. udgave");
         System.out.print("4. udgave");
         System.out.print("5. udgave");
+        System.out.print("6. udgave");
 
     }
 }
