@@ -13,6 +13,7 @@ public class Main {
         System.out.print("7. udgave");
         System.out.print("6. udgave");
         System.out.print("9. udgave");
+        System.out.print("10. udgave");
 
     }
 }
